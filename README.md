@@ -1,5 +1,5 @@
 # Intro
-This repo aim to provide quick ready-ground for designers to start off design of their webpages without even touching/thinking about how to project structure or configuratio.
+This repo aim to provide quick ready-ground for designers to start off design of their webpages without even touching/thinking about the project structure or configuratio.
 With CSS modules being more and more in use, they are making CSS preprocessor less important, that is why for this we chose to stick with naked CSS.
 
 # How to use
