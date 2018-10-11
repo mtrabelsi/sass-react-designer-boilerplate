@@ -12,11 +12,6 @@ class Home extends React.Component {
 	render() {
       return (<button onClick={this.handleClick}>
                 {this.props.label ? this.props.label : 'default label'}
-                <style jsx>{`
-                    background-color: green;
-                    color: white;
-                    padding: 10px;
-			    `}</style>
             </button>)
 	}
 
